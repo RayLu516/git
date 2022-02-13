@@ -37,4 +37,3 @@ e2.nextval = e3
 li.insert(li.headval.nextval,"Tue")
  
 li.show()
-
